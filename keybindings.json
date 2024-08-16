@@ -1,0 +1,7 @@
+{
+    "key": "ctrl+g",
+    "command": "workbench.action.terminal.sendSequence",
+    "args": {
+        "text": "cmd /c googleSearch.bat\n"
+    }
+}
